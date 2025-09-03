@@ -51,6 +51,10 @@ Además, incluye documentación interactiva con **Swagger (OpenAPI)**.
 ## 📦 Instalación y ejecución
 
 1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/SiliusJM/SpringBoot-Supermarket-Api.git
+	
+```
+git clone https://github.com/SiliusJM/SpringBoot-Supermarket-Api.git
+```
 
+   
+   
